@@ -1,0 +1,18 @@
+# Keep Cloud Run source deployments small while including only the derived search index.
+.gcloudignore
+.git
+.gitignore
+.env
+cloudrun.env.yaml
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+.tmp/
+tests/
+네이버 드라이브 폴더구조/
+data/*
+!data/search/
+data/search/*
+!data/search/drive_search.sqlite

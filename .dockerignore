@@ -1,0 +1,12 @@
+.env
+.venv
+__pycache__
+.pytest_cache
+*.pyc
+네이버 드라이브 폴더구조/
+data/*
+!data/search/
+data/search/*
+!data/search/drive_search.sqlite
+tests
+.DS_Store

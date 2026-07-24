@@ -1,0 +1,13 @@
+.env
+cloudrun.env.yaml
+.venv/
+.tmp/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+data/sources/*/raw/*.json
+data/sources/*/batches/*.json
+data/sources/*/reports/*.md
+data/sources/*/reports/*.csv
+data/search/*.sqlite

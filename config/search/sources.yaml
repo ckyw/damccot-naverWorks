@@ -1,0 +1,6 @@
+version: 1
+sources:
+  - name: image-assets
+    path: data/sources/image-assets/raw/sharedrive_tree_raw.json
+  - name: quality-management
+    path: data/sources/quality-management/raw/sharedrive_tree_raw.json

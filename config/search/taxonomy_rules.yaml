@@ -1,0 +1,37 @@
+version: 1
+categories:
+  business_area:
+    - tag: 품질관리
+      terms: [haccp, 품질, 위생, 점검, 검사, 시험성적]
+    - tag: 디자인
+      terms: [디자인, 시안, 패키지, 로고, 브랜딩]
+    - tag: 마케팅
+      terms: [마케팅, 홍보, sns, 인스타, 이벤트]
+    - tag: 매장운영
+      terms: [매장, 점포, 메뉴판]
+  content_type:
+    - tag: 이미지
+      file_types: [image]
+      extensions: [jpg, jpeg, png, gif, heic, webp, raw, raf]
+    - tag: 영상
+      file_types: [video]
+      extensions: [mp4, mov, mxf, avi, webm]
+    - tag: 문서
+      file_types: [doc]
+      extensions: [pdf, doc, docx, xls, xlsx, ppt, pptx, hwp, hwpx, txt, csv]
+    - tag: 디자인원본
+      extensions: [psd, ai, eps, prproj, xmp]
+  document_type:
+    - tag: 점검표
+      terms: [점검표, 체크리스트, checklist]
+    - tag: 인증서
+      terms: [인증서, 성적서, 시험성적, certificate]
+    - tag: 매뉴얼
+      terms: [매뉴얼, 지침, 가이드, manual]
+  product:
+    - tag: 빙수
+      terms: [빙수, 팥빙수]
+    - tag: 선물세트
+      terms: [선물세트, 기프트, gift]
+    - tag: 음료
+      terms: [음료, 생강차, 수정과, 식혜]

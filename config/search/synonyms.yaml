@@ -1,0 +1,14 @@
+version: 1
+groups:
+  - canonical: 이미지
+    terms: [이미지, 사진, 포토, photo, image]
+  - canonical: 디자인
+    terms: [디자인, 시안, 그래픽, design]
+  - canonical: 품질관리
+    terms: [품질관리, 품질, qc, haccp, 위생]
+  - canonical: 빙수
+    terms: [빙수, 팥빙수, shaved ice]
+  - canonical: 패키지
+    terms: [패키지, 포장, 패키징, package]
+  - canonical: 매장
+    terms: [매장, 점포, 매대, store]
